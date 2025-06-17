@@ -18,12 +18,12 @@
 			<div type="index">
 				<list>
     				<item>
-        				<ref target="target">Index item</ref>
+        				<ref target="#virgil1 #virgil2">People</ref>
         				<list>
-            				<head>Index item</head>
-            					<item><ref target="target">Target</ref></item>
-            					<item><ref target="target">Target</ref></item>
-            					<item><ref target="target">Target</ref></item>
+            				<head>Virgil</head>
+            					<item><ref target="#virgil1 #virgil2">Virgil</ref></item>
+            					<item><ref>Target</ref></item>
+            					<item><ref>Target</ref></item>
         				</list>
     				</item>
 				</list>
