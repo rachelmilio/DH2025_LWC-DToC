@@ -1,0 +1,29 @@
+{
+    "editionTitle": "Dante test",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div",
+    "documentContent": "",
+    "documentTitle": "",
+    "documentAuthor": "",
+    "indexDocument": "//div[@type='index']",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/rachelmilio/DH2025_LWC-DToC/main/inferno_files/Inferno_english.xml",
+        "https://raw.githubusercontent.com/rachelmilio/DH2025_LWC-DToC/refs/heads/main/index_template.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            }
+        ],
+        "toc": [
+            "fc1b792d26226ece384a01bc0e0c8af4cf4f3469ca396e7b3e2ae0d3aa8503b2",
+            "3c9e9a9b5643d297a59161a5b8ab2cb5a39b9b8486c347a5d314f5db36f83387"
+        ]
+    }
+}
