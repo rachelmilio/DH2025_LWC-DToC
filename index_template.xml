@@ -16,7 +16,7 @@
 	<text>
 		<body>
 			<div type="index">
-				`<list>
+				<list>
     				<item>
         				<ref target="target">Index item</ref>
         				<list>
@@ -25,7 +25,7 @@
             					<item><ref target="target">Target</ref></item>
             					<item><ref target="target">Target</ref></item>
         				</list>
-    				</item>`
+    				</item>
 				</list>
 			</div>
 		</body>
