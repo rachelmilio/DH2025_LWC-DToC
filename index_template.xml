@@ -19,12 +19,11 @@
 				<list>
     				<item>
         				<ref target="#virgil1 #virgil2">Virgil</ref>
-        				<!--<list>
-            				<head>Virgil</head>
+        				<list>
             					<item><ref target="#virgil1 #virgil2">Virgil</ref></item>
             					<item><ref>Target</ref></item>
             					<item><ref>Target</ref></item>
-        				</list>-->
+        				</list>
     				</item>
 				</list>
 			</div>
